@@ -4,7 +4,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-# PDF_PATH = "250883_english_01042024.pdf"  # The path to the BNS PDF file
+# The path to the legal_docs PDF files
 PDF_SOURCE_DIR = "legal_docs"
 DB_FAISS_PATH = "bns_vector_store" # The directory to save the vector pipstore
 
