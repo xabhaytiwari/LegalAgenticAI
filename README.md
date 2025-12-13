@@ -54,7 +54,7 @@ Clone the Repository git clone https://github.com/xabhaytiwari/legalagenticai.gi
 
 cd agentic-legal-assistant
 
-Install Dependencies pip install -r requirements.txt
+Install Dependencies
 
 Environment Variables Create a .env file or export the following: export GOOGLE_API_KEY="your_gemini_api_key"
 
