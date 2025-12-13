@@ -95,4 +95,4 @@ Voice Interface: Adding Speech-to-Text for accessibility in rural areas.
 
 Multilingual Support: Fine-tuning embeddings for Hindi and regional languages.
 
-Frontend: Developing a React/Next.js dashboard for visual case management.
+Frontend: Developing a dashboard for visual case management.
