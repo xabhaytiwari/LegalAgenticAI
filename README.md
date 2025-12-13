@@ -58,7 +58,7 @@ Install Dependencies
 
 Environment Variables Create a .env file or export the following: export GOOGLE_API_KEY="your_gemini_api_key"
 
-Database Setup
+<h3>Database Setup </h3>
 
 Place your Firebase Service Account JSON key in the root directory.
 
