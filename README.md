@@ -26,7 +26,7 @@ Streaming API: Built on FastAPI to support real-time token streaming for a respo
 
 Frameworks: LangChain, LangGraph, FastAPI
 
-LLM: Google Gemini 1.5 Flash (via ChatGoogleGenerativeAI).
+LLM: Google Gemini 2.5 Flash (via ChatGoogleGenerativeAI).
 
 Vector Database: FAISS (Facebook AI Similarity Search).
 
