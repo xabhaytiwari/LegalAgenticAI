@@ -50,7 +50,9 @@ legal_docs/: Directory for source PDFs (BNS, IPC, Judgments).
 
 ## Setup & Installation
 
-Clone the Repository git clone https://github.com/yourusername/agentic-legal-assistant.git cd agentic-legal-assistant
+Clone the Repository git clone https://github.com/yourusername/legalagenticai.git 
+
+cd agentic-legal-assistant
 
 Install Dependencies pip install -r requirements.txt
 
