@@ -79,7 +79,7 @@ Input: User sends a message + Role.
 
 Call Model (Node): The LLM analyzes the state. It decides if it needs to use a tool (e.g., search_legal_knowledge_base or file_new_complaint).
 
-Decision (Edge):
+<h3>Decision (Edge):</h3>
 
 If Tool Call -> Route to call_tool.
 
