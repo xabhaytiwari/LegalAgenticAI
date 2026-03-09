@@ -69,7 +69,7 @@ tool_map = {tool.name: tool.func for tool in tools}
 
 # --- 2. Set Up The LLM ---
 
-# Option 1: Local LLM with Ollama (Recommended)
+# Option 1: Local LLM with Ollama
 # 1. Install Ollama: https://ollama.com/
 # 2. Run: ollama pull llama3.1
 # 3. Make sure Ollama is running in your terminal
